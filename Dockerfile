@@ -1,4 +1,4 @@
-FROM postgres:12.4
+FROM postgres:12.6
 
 LABEL Alexander Kukushkin <alexander.kukushkin@zalando.de>
 
